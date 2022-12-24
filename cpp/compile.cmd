@@ -1,0 +1,1 @@
+g++ sudoku.cpp -o sudoku.exe -std=c++11
